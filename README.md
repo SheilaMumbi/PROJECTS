@@ -1,2 +1,3 @@
-# PROJECTS-2024
+# PROJECTS
+
 # These are all the projects I tackled in 2024
